@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "unplugin-icons": "^22.1.0"
+  },
+  "dependencies": {
+    "@capacitor/core": "7.4.2"
+  }
+}
